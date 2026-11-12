@@ -117,9 +117,6 @@ header .fa-bars{
 
 
 
-
-
-
 @media ( max-width:991px){
     
     html{
@@ -204,7 +201,7 @@ header .fa-bars{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background: url(image2.jpg) no-repeat;
+    background: url(images/image2.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
